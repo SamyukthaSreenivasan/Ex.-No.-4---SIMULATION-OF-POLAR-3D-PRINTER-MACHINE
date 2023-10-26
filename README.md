@@ -33,8 +33,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Samyuktha S
+### Register Number: 212222240089
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
