@@ -33,6 +33,9 @@
 
 ## Output:
 
+![image](https://github.com/SamyukthaSreenivasan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119475703/d22d3f49-a8ab-471a-84bf-1a4c0fa7a6f8)
+
+
 ### Name: Samyuktha S
 ### Register Number: 212222240089
 
